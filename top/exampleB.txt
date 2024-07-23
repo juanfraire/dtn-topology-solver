@@ -1,0 +1,28 @@
+// Dynamic Topology Format (DTF):
+numSat=4
+numET=0
+numK=x
+totalTime=5 day
+ISL Range=1000
+ET-LEO Rangeist=2000
+
+*,1,0,0,
+1,*,0,0,
+0,0,*,1,
+0,0,1,*,
+k=1
+t=1
+
+*,0,0,0,
+0,*,1,0,
+0,1,*,0,
+0,0,0,*,
+k=2
+t=1
+
+*,1,0,0,
+1,*,0,0,
+0,0,*,1,
+0,0,1,*,
+k=3
+t=1

@@ -1,0 +1,31 @@
+Statistic File for TotSim_01 Topology
+
+Physical:
+--------------------------------------------------
+Topology Object Size: 633208 Bytes
+Topology Nodes: 0 ET + 20 Sat = 20 Nodes
+Topology States: 25
+Topology Average Arc Density: 19.2%
+Topology Solved: 1
+
+Logical:
+--------------------------------------------------
+Total Enabled Arc Quantity: 478
+Total Enabled Arc Time: 30882
+Total Enabled Arc Weight: 359368
+
+Minimum Enabled Arc: 0-1
+Minimum Enabled Arc Time: 0
+Maximum Enabled Arc: 6-10
+Maximum Enabled Arc Time: 276
+MinMax Time Ratio: 0
+Raj Jain Fairness Index: 0.614008
+
+Fairness LP Model tmin: 0
+Fairness LP Model tmax: 0
+
+Routes:
+--------------------------------------------------
+MaxMaxDelay: 0
+MaxAvgDelay: 0
+UnroutedKs: 0
